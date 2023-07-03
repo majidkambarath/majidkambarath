@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/majidkambarath" target="blank"><img src="https://img.shields.io/twitter/follow/majidkambarath?logo=twitter&style=for-the-badge" alt="majidkambarath" /></a> </p>
 
-- 🔭 I’m currently working on [Destination Booking](https://github.com/majidkambarath/TravelAgency_BackEnd)
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
