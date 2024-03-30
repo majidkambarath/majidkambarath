@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **MERN Project (NodeJS)**
 
-- 👨‍💻 All of my projects are available at [https://majidkambarath.github.io/](https://majidkambarath.github.io/)
+- 👨‍💻 All of my projects are available at [https://majidkambarath.netlify.app/](https://majidkambarath.netlify.app/)
 
 - 💬 Ask me about **Javascript, Node, Mongodb, ReactJs, Typescript, Tailwind, ExpressJS**
 
